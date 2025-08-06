@@ -1,6 +1,6 @@
 # Git Hooks
 
-This repository contains Git hook utilities:
+This repository contains silly git hook utilities:
 
-- **git-tts** - A text-to-speech integration for Git that reads commit messages aloud using KittenTTS
-- **git-emote** - A prepare-commit-msg hook that automatically appends commit messages with AI-generated emojis 🙂
+- **git-tts** - A post-commit hook TTS integration that reads commit messages using KittenTTS asyncronously
+- **git-emote** - A prepare-commit-msg hook that appends commit messages with an LLM-generated emoji 🙂 (based on the message)
