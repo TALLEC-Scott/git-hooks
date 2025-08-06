@@ -1,6 +1,8 @@
 [submodule "git-tts"]
 	path = git-tts
 	url = https://github.com/TALLEC-Scott/git-tts
+	branch = main
 [submodule "git-emote"]
 	path = git-emote
 	url = https://github.com/TALLEC-Scott/git-emote
+	branch = main
